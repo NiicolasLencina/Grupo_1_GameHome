@@ -31,10 +31,10 @@ Florencia Farias:Soy Flor, tengo 24. Me gusta escuchar todo tipo de música y ap
 
 
 
-Ezequiel Roldan:
+Ezequiel Roldan:soy Eze, tengo 21 una de las cosas  que más  me gusta de la programación  es preguntarme  como puedo hacer tal y tal cosa tengo mucha curiosidad  por aprender siempre  algo nuevo y las formas  de  usarlo y sobre mi me gusta mucho  el anime las series el fútbol y aprender cosas nuevas  pero sobre  todo lo que mas me gusta es la musica
+
 
 
 Nicolas Lencina:
-
 
 Franco Tomaino: Miembro del grupo, estudiante en la Universidad Nacional de La Matanza, dentro del desarrollo me gusta tanto el front end como el back y me apasiona poder aprender cada vez mas, me gusta la musica y el deporte tambien.  
