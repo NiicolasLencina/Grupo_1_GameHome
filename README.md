@@ -38,3 +38,5 @@ Ezequiel Roldan:soy Eze, tengo 21 una de las cosas  que más  me gusta de la pro
 Nicolas Lencina:
 
 Franco Tomaino: Miembro del grupo, estudiante en la Universidad Nacional de La Matanza, dentro del desarrollo me gusta tanto el front end como el back y me apasiona poder aprender cada vez mas, me gusta la musica y el deporte tambien.  
+
+Trello : https://trello.com/b/SbGKz092/proyecto-dh
