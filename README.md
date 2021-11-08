@@ -1,4 +1,4 @@
-# Proyecto-DH
+#Proyecto-DH
 
 ¿Qué productos o servicios brindará nuestro sitio? 
   Productos gamer, perifericos.
@@ -27,7 +27,7 @@ https://www.fullh4rd.com.ar/ => La funcionalidad de este sitio web nos llamo la 
 https://compragamer.com/ => Tambien elegimos esta pagina por la variedad de productos y categorias que brinda
 
 
-Florencia Farias: tengo 24 años. Me gusta escuchar todo tipo de música y aprovechar mis tiempos de relax para jugar o salir a pasear. Mi curiosidad por la programación comenzó hace unos meses y no dejé de estudiar, desde entonces. Sobre Desarrollo Web me gusta mucho lo que tiene que ver con el front y el back que lo estoy descubriendo.
+Florencia Farias:Lider del equipo. Tengo 24 años. Me gusta escuchar todo tipo de música y aprovechar mis tiempos de relax para jugar o salir a pasear. Mi curiosidad por la programación comenzó hace unos meses y no dejé de estudiar, desde entonces. Sobre Desarrollo Web me gusta mucho lo que tiene que ver con el front y el back que lo estoy descubriendo.
 
 
 
