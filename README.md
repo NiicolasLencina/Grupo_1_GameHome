@@ -19,7 +19,7 @@ jugar videojuegos, realizar streams, videos en YouTube, también home office y d
   
   
 
-## **Páginas de referencia que utilizamos:** :file_folder:
+## **Páginas de referencia que utilizamos** :file_folder:
 
 * https://redragon.es/ 👉 Elegimos esta pagina en particular por la estetica que presenta y las interacciones implementadas, paletas de colores y demas
 
