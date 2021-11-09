@@ -1,19 +1,20 @@
-#Proyecto-DH
+## Proyecto-DH 
 
-¿Qué productos o servicios brindará nuestro sitio? 
-  Productos gamer, perifericos.
+# GAME HOME 🚀
+
+### ¿Qué productos o servicios brindará nuestro sitio? 
+  Productos gamer, periféricos.
 
 
-¿Quién será nuestra audiencia
+### ¿Quién será nuestra audiencia
 objetivo? 
-  Publico objetivo, personas de 14 a 35 años.
+  Publico objetivo, personas de 14 a 40 años.
 
 
-¿Cómo ajustaremos nuestra oferta a ese público?
+### ¿Cómo ajustaremos nuestra oferta a ese público?
 
-
-Los productos que vamos a ofrecer son enfocados a una audiencia gamer de entre 14 y 40 años que desarrollan actividades como jugar videojuegos, realizar streams, videos en YouTube y demás. Algunos de los productos que vamos a ofrecer son : 
-  Computadoras y componentes, mouse(inalambrico y usb), teclados mecanicos, sillas gamer, auriculares(inalambrico y usb), joysticks, antenas wifi, consolas de videojuegos,microfonos y audio, luces, accesorios.
+Los productos que vamos a ofrecer son enfocados a una audiencia gamer de entre 14 y 40 años que desarrollan actividades, como: jugar videojuegos, realizar streams, videos en YouTube, también home office y demás. Algunos de los productos que vamos a ofrecer, son: 
+  Computadoras y hardware: mouse(inalambrico y usb), teclados mecanicos, sillas gamer, auriculares(inalambrico y usb), joysticks, antenas wifi, consolas de videojuegos,microfonos y audio, luces, y otro tipo de accesorios.
 
 
 https://redragon.es/ => Elegimos esta pagina en particular por la estetica que presenta y las interacciones implementadas, paletas de colores y demas
@@ -40,3 +41,4 @@ Nicolas Lencina: tengo 23 años. Me gustó mucho la programacion, los videoJuego
 Franco Tomaino: Miembro del grupo, estudiante en la Universidad Nacional de La Matanza, dentro del desarrollo me gusta tanto el front end como el back y me apasiona poder aprender cada vez mas, me gusta la musica y el deporte tambien.  
 
 Trello : https://trello.com/b/SbGKz092/proyecto-dh
+
