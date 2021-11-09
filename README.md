@@ -34,7 +34,7 @@ jugar videojuegos, realizar streams, videos en YouTube, también home office y d
 ## Equipo de trabajo ✒️
 
 - **Florencia Farias:**
-Lider del equipo. Tengo 24 años. Me gusta escuchar todo tipo de música y aprovechar mis tiempos de relax para jugar o salir a pasear. Mi curiosidad por la programación comenzó hace unos meses y no dejé de estudiar, desde entonces. Sobre Desarrollo Web me gusta mucho lo que tiene que ver con el front y el back que lo estoy descubriendo. :man_technologist:
+*Lider del equipo*. Tengo 24 años. Me gusta escuchar todo tipo de música y aprovechar mis tiempos de relax para jugar o salir a pasear. Mi curiosidad por la programación comenzó hace unos meses y no dejé de estudiar, desde entonces. Sobre Desarrollo Web me gusta mucho lo que tiene que ver con el front y el back que lo estoy descubriendo. :man_technologist:
 
 
 - **Ezequiel Roldan:** 
